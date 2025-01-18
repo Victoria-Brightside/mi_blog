@@ -1,0 +1,13 @@
+.text-button {
+    color: #1b262c;
+}
+  
+.text-button.is-active {
+      color: #35b6c8;
+    }
+
+  
+  .text-button-md {
+    font-size: 15px;
+    line-height: 19px;
+  }

@@ -1,0 +1,30 @@
+.author {
+    display: flex;
+    gap: 0 12px;
+    align-items: center;
+  }
+  
+  .author img {
+    width: 100%;
+    max-width: 32px;
+    max-height: 32px;
+    border-radius: 50%;
+  }
+  
+  .author span {
+    color: #3c5562
+  }
+
+  .paragraph-sm {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  
+  .paragraph-xs {
+    font-size: 13px;
+    line-height: 19px;
+  }
+
+  .font-bold {
+    font-weight: 700;
+  }
